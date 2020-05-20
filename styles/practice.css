@@ -1,0 +1,20 @@
+.centerer {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.stylized {
+  width: 8rem;
+  height: 3rem;
+  font-weight: bolder;
+  color: #e3f30f;
+  background: 
+  #330A5B;
+  border: 1px solid #330A5B;
+  border-radius: 4px;
+  box-shadow: 1px 1px 10px #000;
+}
+

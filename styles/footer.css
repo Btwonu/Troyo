@@ -1,0 +1,20 @@
+footer {
+  background-color: rgb(8, 27, 90);
+  color: #fff;
+  width: 100vw;
+  height: 15vh;
+  border: 1px solid #a1a4a073;
+  border-radius: 1px;
+  box-shadow: 1px 1px 2px 1px #a1a4a0;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-evenly;
+  align-items: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+}
+
+.copy p {
+  font-size: 2rem;
+}

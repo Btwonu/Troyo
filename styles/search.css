@@ -1,0 +1,20 @@
+.search {
+    margin: 1em;
+    padding: 1em 0 0 1em;
+    width: 20em;
+    height: 13em;
+    border: 1px solid rgba(0, 0, 0, 0.493);
+    border-radius: 1px;
+    font-size: 1.6em;
+    font-weight: bold;
+    box-shadow: 1px 1px 2px 1px #a1a4a0;
+  }
+  
+  .search input[type="text"] {
+    margin: 2em 0 0 1em;
+    width: 18em;
+  }
+  
+  .search button {
+    margin: 2em 0 0 1em;
+  }
